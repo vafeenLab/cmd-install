@@ -7,3 +7,5 @@ winget install RadolynLabs.AyuGramDesktop
 // winget install -e --id JetBrains.Toolbox
 
 winget install --id Git.Git
+
+winget install -e --id Docker.DockerDesktop
