@@ -1,7 +1,9 @@
-winget install Obsidian.Obsidian --location "C:\MyPrograms\Obsidian"
+winget install Obsidian.Obsidian
 
-winget install -e --id 7zip.7zip --location "C:\MyPrograms\7-Zip"
+winget install -e --id 7zip.7zip
 
-winget install RadolynLabs.AyuGramDesktop --location "C:\MyPrograms\Ayugram"
+winget install RadolynLabs.AyuGramDesktop
 
-winget install -e --id JetBrains.Toolbox --location "C:\MyPrograms\JetBrainsToolbox"
+// winget install -e --id JetBrains.Toolbox
+
+winget install --id Git.Git
