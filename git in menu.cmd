@@ -1,4 +1,4 @@
-        @echo off
+    @echo off
 
     :: change the path below to match your installed version
     SET GitGUI=C:\MyPrograms\Git\cmd\git-gui.exe
