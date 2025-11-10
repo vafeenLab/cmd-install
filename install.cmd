@@ -9,3 +9,5 @@ winget install RadolynLabs.AyuGramDesktop
 winget install --id Git.Git
 
 winget install -e --id Docker.DockerDesktop
+
+winget install Microsoft.VisualStudioCode
