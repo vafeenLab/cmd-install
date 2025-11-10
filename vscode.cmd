@@ -1,7 +1,7 @@
    @echo off
 
     :: change the path below to match your installed version
-    SET PATH=C:\Program Files\Microsoft VS Code
+    SET PATH=C:\Program Files\Microsoft VS Code\Code.exe
     
     echo Adding file entries
     @reg add "HKEY_CLASSES_ROOT\*\shell\VSCode" /t REG_SZ /v "" /d "Open with VSCode"   /f
