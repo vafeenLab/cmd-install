@@ -1,5 +1,3 @@
-winget install Microsoft.VisualStudioCode --location "C:\MyPrograms\VSCode"
-     
    @echo off
 
     :: change the path below to match your installed version
