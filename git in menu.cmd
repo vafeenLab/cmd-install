@@ -1,5 +1,3 @@
-winget install -e --id Git.Git --location "C:\MyPrograms\Git"
-
         @echo off
 
     :: change the path below to match your installed version
