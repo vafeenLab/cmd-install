@@ -10,4 +10,4 @@ winget install --id Git.Git
 
 winget install -e --id Docker.DockerDesktop
 
-winget install Microsoft.VisualStudioCode
+winget install --id Microsoft.VisualStudioCode --scope machine
