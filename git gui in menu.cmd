@@ -1,5 +1,4 @@
 @echo off
-
 :: Путь к Git GUI
 set "GitGUI=C:\Program Files\Git\cmd\git-gui.exe"
 
