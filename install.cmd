@@ -11,5 +11,3 @@ winget install --id Git.Git
 winget install -e --id Docker.DockerDesktop
 
 winget install --id Microsoft.VisualStudioCode --scope machine
-
-winget install -e --id ojdkbuild.openjdk.17.jdk
