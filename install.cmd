@@ -13,3 +13,5 @@ winget install -e --id Docker.DockerDesktop
 winget install --id Microsoft.VisualStudioCode --scope machine
 
 winget install --id=TheDocumentFoundation.LibreOffice  -e
+
+winget install --id ojdkbuild.openjdk.17.jdk -e
